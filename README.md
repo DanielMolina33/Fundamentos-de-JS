@@ -3,7 +3,7 @@
 ## Juego - Simon Dice
 
 ## Demo
-https://danielmolina33.github.io/Fundamentos-de-JS/
+https://danielmolina33.github.io/Fundamentos-de-JS/index.html
 
 ### Lenguaje utilizado
 
@@ -27,5 +27,3 @@ https://danielmolina33.github.io/Fundamentos-de-JS/
 - Indagación en el codigo para detección de errores o bugs
 - Uso de var, let y const en dependiendo la situación
 
-
-s
