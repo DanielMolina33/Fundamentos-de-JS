@@ -2,6 +2,9 @@
 
 ## Juego - Simon Dice
 
+## Demo
+https://danielmolina33.github.io/Fundamentos-de-JS/
+
 ### Lenguaje utilizado
 
 - HTML
